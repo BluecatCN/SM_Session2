@@ -1,0 +1,24 @@
+<Record>
+<Family>
+	<member type="child">
+			<name>Jiawei XU</name>
+			<birthday>1995-05-04 01-30-30</birthday>
+			<height units="cm">173</height>
+			<weight units="kg">72</weight>
+     </member>
+</Family>
+<Trip>
+     <part number="1">
+	    <date>2018-08-28 01:30:00</date>
+		<location>Shanghai</location>
+		<times>1</times>
+		<transportation>airplane</transportation>
+	</part>
+	     <part number="2">
+	    <date>2018-08-29 14:00:00</date>
+		<location>Lyon</location>
+		<times>1</times>
+		<transportation>bus</transportation>
+	</part>
+</Trip>
+</Record>
